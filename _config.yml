@@ -14,7 +14,7 @@ email: scbhatia@bu.edu
 facebook_username: shivanicbhatia
 twitter_username:
 github_username: scbhatia
-address:
+address: 820 Beacon St, Boston, MA 02215
   - line: 820 Beacon St
   - line: Boston, MA 02215
   # Feel free to add more lines here 
@@ -22,7 +22,7 @@ telephone: 267-885-8880
 copyright:
 
 # API settings
-google_api_key: AIzaSyASKQDWoGIdb5n55VshCOEh--SA347mXQo
+google_api_key: AIzaSyCylrL7uNlV7c9hlZ9t-ADGJx8O-HIkK_U
 
 # Build settings
 markdown: kramdown
