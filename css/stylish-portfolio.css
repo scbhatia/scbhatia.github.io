@@ -204,12 +204,10 @@ hr.small {
 
 .img-portfolio {
     margin: 0 auto;
-    width: 300px;
-    height: auto;
 }
 
 .img-portfolio:hover {
-    opacity: 0.3;
+    opacity: 0.1;
 }
 
 /* Call to Action */
