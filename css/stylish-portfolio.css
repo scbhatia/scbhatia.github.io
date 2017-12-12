@@ -42,12 +42,15 @@ body {
 
 .heading-words a {
     color: white;
+    text-decoration: none;
 }
 
 .heading-words a:hover,
 .heading-words a:focus,
 .heading-words a:active, {
-    color:black
+    color:black;
+    text-decoration: none;
+    
 }
 /* Custom Button Styles */
 
