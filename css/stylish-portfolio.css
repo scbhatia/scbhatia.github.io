@@ -42,6 +42,7 @@ body {
 
 .heading-words a {
     color: #fff;
+    background-color: rgba(0,0,0,0.4);
 }
 
 .heading-words a:hover {
