@@ -41,28 +41,17 @@ body {
 }
 
 .heading-words a {
-    border-radius: 0;    
-    color: #fff;
-    background-color: rgba(0,0,0,0.4);
+    color: white;
 }
 
-.heading-words a:hover {
+.heading-words a:hover,
+.heading-words a:focus,
+.heading-words a:active, {
     color:black
 }
 /* Custom Button Styles */
 
-.btn-dark {
-    border-radius: 0;
-    color: #fff;
-    background-color: rgba(0,0,0,0.4);
-}
 
-.btn-dark:hover,
-.btn-dark:focus,
-.btn-dark:active {
-    color: #fff;
-    background-color: rgba(0,0,0,0.7);
-}
 
 .btn-light {
     border-radius: 0;
