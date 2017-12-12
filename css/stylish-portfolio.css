@@ -170,6 +170,8 @@ hr.small {
 
 .about img {
     border-radius: 50%;
+    height: 25%;
+    width: auto;
 }
 
 /* Services */
